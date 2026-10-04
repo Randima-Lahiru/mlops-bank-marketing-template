@@ -10,4 +10,7 @@ monitoring/*.csv
 monitoring/*.json
 monitoring/*.html
 gate_report.md
-.env
+.envdata/raw/bank-additional-full.csv
+data/processed/train.csv
+data/processed/eval.csv
+data/processed/future.csv
